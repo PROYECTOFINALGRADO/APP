@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLh8LLKnfNW6FH0bSwFpkjv1DcciwR5sJsLz18xbrYGLCo1BKn0eeibl1cjq3vy4PkrDO6HQrpi1zqATcoMnfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\ENTRADACAMIONES\\ENTRADACAMIONES.iOS\\ENTRADACAMIONES.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

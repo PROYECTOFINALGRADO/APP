@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\bin\Debug\netstandard2.0\ENTRADACAMIONES.deps.json
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\bin\Debug\netstandard2.0\ENTRADACAMIONES.dll
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\bin\Debug\netstandard2.0\ref\ENTRADACAMIONES.dll
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\bin\Debug\netstandard2.0\ENTRADACAMIONES.pdb
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.dll
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\refint\ENTRADACAMIONES.dll
+C:\Users\Alex\source\repos\ENTRADACAMIONES\ENTRADACAMIONES\obj\Debug\netstandard2.0\ENTRADACAMIONES.pdb
